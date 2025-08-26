@@ -62,7 +62,7 @@ Positive WordCloud:
 ![Positive Reviews](images/positive_sentiment.jpg)  
 
 Negative Matrix:  
-![Negative Matrix](images/confusion_matrix.png)  
+![Negative Matrix](images/negative_sentiment.jpg)  
 
 ---
 
