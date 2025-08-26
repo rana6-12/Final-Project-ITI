@@ -57,10 +57,18 @@ The project demonstrates:
 - **TF-IDF** performed well, but **Embeddings + Dense Network** achieved the best results.  
 - Preprocessing significantly improved model performance.  
 
+### 🔥 Sample Visualizations  
+Positive WordCloud:  
+![Positive Reviews](images/positive_sentiment.jpg)  
+
+Negative Matrix:  
+![Negative Matrix](images/confusion_matrix.png)  
+
 ---
 
 ## ⚙️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/Sentiment-Analysis-IMDB.git
-   cd Sentiment-Analysis-IMDB
+
+### 1. Clone this repository:
+```bash
+git clone https://github.com/YourUsername/Sentiment-Analysis-IMDB.git
+cd Sentiment-Analysis-IMDB
